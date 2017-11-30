@@ -1,0 +1,27 @@
+{
+  "locals": {
+    "url": "http://localhost:8080",
+    "name": "LiVE MAG! REViEWS",
+    "owner": "LiVE MAG!",
+    "description": "Reviews of poetry and art by LiVE MAG! contributors"
+  },
+  "plugins": [
+    "./plugins/paginator.coffee",
+    "wintersmith-sassy"
+  ],
+  "require": {
+    "moment": "moment",
+    "_": "underscore",
+    "typogr": "typogr"
+  },
+  "jade": {
+    "pretty": true
+  },
+  "markdown": {
+    "smartLists": true,
+    "smartypants": true
+  },
+  "paginator": {
+    "perPage": 3
+  }
+}
