@@ -1,4 +1,4 @@
-@import 'reset.css';
+@import '../node_modules/reset.css/reset.css';
 
 html {
   box-sizing: border-box;
@@ -133,9 +133,9 @@ header .btn.cta a {
   padding-bottom: 2px;
   border-bottom: 1px solid black;*/
 }
-header > .btn a:hover {
+/*header > .btn a:hover {
   background-color: #ffccff;
-}
+}*/
 .article .author {
   font-family: 'karla', sanserif;
   font-variant: small-caps;
@@ -208,7 +208,14 @@ figure {
 figure {width: 250px;}
 .box p {}
 /* page footer */
-
+blockquote {
+  background-color: #ffe6ff;
+  border-left: 3px solid #ffccff;
+  padding-top: 3px;
+}
+blockquote p {
+  padding-bottom: 8px;
+}
 footer {
   margin: 3em 0;
 }
