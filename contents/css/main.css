@@ -1,5 +1,3 @@
-@import '../node_modules/reset.css/reset.css';
-
 html {
   box-sizing: border-box;
 }
@@ -80,7 +78,7 @@ li {
 blockquote {
   margin: 1.2em 3em;
   padding-left: 1em;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
 hr {

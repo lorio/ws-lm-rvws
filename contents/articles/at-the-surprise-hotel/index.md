@@ -7,11 +7,11 @@ template: article.jade
 Barry Wallenstein’s latest collection of verse continues his pioneering foray into blending jazz and poetry. The poems are infused with a distinct musicality that’s reminiscent of raw bars and bayou blues. Stripped down emotions are buoyed by irrefutable truths. 
 <span class="more"></span>
 
-> *At the Surprise Hotel and other poems*    
-  by Barry Wallenstein    
+> _At the Surprise Hotel and other poems_       
+>  by Barry Wallenstein    
   [Ridgeway Press](https://www.spdbooks.org/Products/9781564391414/at-the-surprise-hotel-and-other-poems.aspx)
   
-<figure><img src="bwbook.jpg" class="book" alt="cover"></figure>
+  <figure><img src="bwbook.jpg" class="book indent" alt="cover"></figure>
 
 Wallenstein’s *oeuvre* is truly performance poetry, incorporating the angst and cadences of jazz into bittersweet riffs that acknowledge our human foibles. Now, as a mature auteur, his work remains unjaded and authentic while tackling some stark realities. Instead of churning pity or bitterness, he recycles his reflections into insights.
 
