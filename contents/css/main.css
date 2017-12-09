@@ -1,3 +1,4 @@
+meta {display: block;}
 html {
   box-sizing: border-box;
 }
@@ -26,7 +27,7 @@ body {
 body, a {
   color: #171717;
 }
-
+em, strong, cite {font-style: italic;}
 a:hover {
   color: #ff8000;
   text-decoration: underline;
@@ -85,15 +86,14 @@ hr {
   border: 0;
   border-top: 1px dashed #d2d2d2;
   height: 0;
-  margin: 1.6em 0;
-}
+  margin: 1.6em 0}
 
 /* page header */
 .header {
   height: 60px;
-  background-color: #fa4542;
-  background-image: -webkit-linear-gradient(left, #fa4542, #f9f9f9);
-  background-image: linear-gradient(to right, #fa4542, #f9f9f9);
+  background-color: #ef2774;
+  background-image: -webkit-linear-gradient(left, #ef2774, #f9f9f9);
+  background-image: linear-gradient(to right, #ef2774, #f9f9f9);
   display:flex;
   flex-flow: row no-wrap;
   justify-content: space-around;
@@ -160,7 +160,8 @@ header .btn.cta a {
 }
 figure {
   max-width: 250px;
-  padding-left: 30px;
+  padding-left: 60px;
+  padding-bottom: 1em;
 }
 /*.box {
   display: flex;
@@ -261,8 +262,8 @@ footer .copy, footer .copy a {
   margin: 3em 0 4em;
 }
 
-.article header {
-  border-top: 1px dashed #d2d2d2;
+.article.intro header {
+  border-top: 1px dashed #ed541b;
 }
 
 .article header h2 {
@@ -310,7 +311,23 @@ footer .copy, footer .copy a {
   text-rendering: auto;
   letter-spacing: 1px;
 }
-
+.article a {color:#ef2774;}
+.article h2 {
+  font-family: 'Monarcha', serif;
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 1.8em;
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+}
+.article h3 {
+  font-family: 'Monarcha', serif;
+  /*font-size: 1.4em;*/
+  margin-bottom: 0.4em;
+  margin-top: 0;
+  font-style: normal;
+  font-variant: small-caps;
+}
 /* archive */
 
 .archive {

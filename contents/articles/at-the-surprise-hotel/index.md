@@ -1,4 +1,4 @@
----
+---  
 title: At the Surprise Hotel
 author: Karen Corrine-Herceg
 date: 2017-12-01
@@ -7,15 +7,15 @@ template: article.jade
 Barry Wallenstein’s latest collection of verse continues his pioneering foray into blending jazz and poetry. The poems are infused with a distinct musicality that’s reminiscent of raw bars and bayou blues. Stripped down emotions are buoyed by irrefutable truths. 
 <span class="more"></span>
 
-> _At the Surprise Hotel and other poems_       
+>  <em>At the Surprise Hotel and other poems</em>       
 >  by Barry Wallenstein    
   [Ridgeway Press](https://www.spdbooks.org/Products/9781564391414/at-the-surprise-hotel-and-other-poems.aspx)
   
-  <figure><img src="bwbook.jpg" class="book indent" alt="cover"></figure>
+  <figure><img src="bwbook.jpg" class="book" alt="cover"></figure>
 
-Wallenstein’s *oeuvre* is truly performance poetry, incorporating the angst and cadences of jazz into bittersweet riffs that acknowledge our human foibles. Now, as a mature auteur, his work remains unjaded and authentic while tackling some stark realities. Instead of churning pity or bitterness, he recycles his reflections into insights.
+Wallenstein’s <em>oeuvre</em> is truly performance poetry, incorporating the angst and cadences of jazz into bittersweet riffs that acknowledge our human foibles. Now, as a mature auteur, his work remains unjaded and authentic while tackling some stark realities. Instead of churning pity or bitterness, he recycles his reflections into insights.
 
-There are four sections in the book, each with a distinct theme. *At the Surprise Hotel*, (the title of the book as well as the first part), takes on a universal view of multiple characters, allowing us to see how our transitory, illusory perceptions and expectations often deceive us. The characterizations offer visual as well as auditory stimulation such as “she wears faux rhinestone tears” and “with lashes like the fins of fancy fish. In many ways these people are representative of certain types familiar to all of us as the writer elevates them into archetypes.
+There are four sections in the book, each with a distinct theme. <em>At the Surprise Hotel</em>, (the title of the book as well as the first part), takes on a universal view of multiple characters, allowing us to see how our transitory, illusory perceptions and expectations often deceive us. The characterizations offer visual as well as auditory stimulation such as “she wears faux rhinestone tears” and “with lashes like the fins of fancy fish. In many ways these people are representative of certain types familiar to all of us as the writer elevates them into archetypes.
 
 In the second part, _Events_, short vignettes employ realism, surrealism and forthright honesty, to each us something new in each piece. Anyone trying to go beyond writing that is other than mere description or exposition will appreciate the difficulty of this accomplishment, particularly on such a consistent level.
 
