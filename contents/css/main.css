@@ -304,7 +304,7 @@ footer .copy, footer .copy a {
 }
 
 .more, .date {
-  font-family: 'Merriweather', serif;
+  font-family: 'Monarcha', serif;
   font-variant: small-caps;
   text-transform: lowercase;
   font-weight: 400;
@@ -337,11 +337,11 @@ footer .copy, footer .copy a {
 }
 
 .archive h2 {
-  font-size: 2em;
-  margin: 0;
-  margin-left: 6.1em;
   margin-bottom: 0.5em;
-  font-style: italic;
+  font-family: 'Monarcha', serif;
+  text-align: center;
+  font-variant: small-caps;
+  font-size: 1.8em;
 }
 
 .archive a, .archive span{
@@ -369,7 +369,7 @@ footer .copy, footer .copy a {
 .archive .year-label,
 .archive .month-label{
   width: 4em;
-  font-family: 'Merriweather', serif;
+  font-family: 'Monarcha', serif;
   font-variant: small-caps;
   text-transform: lowercase;
   font-weight: 400;
