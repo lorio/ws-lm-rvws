@@ -7,10 +7,16 @@ template: article.jade
 
 "Soaked in tears." How can you beat that? Sakutar&omacr; Hagiwara (1886 — 1943) wrote this line early in his career. His penchant for the piteous remained his trademark. This volume of verse, including the title prose-poem novella, "Cat Town," reveals a genius at joining image with sentiment.<span class="more"></span> His writing produces a profound frisson.
 
-> Translated by Hiroaki Sato  
+<figure>
+  <img src="hagiwara.jpg" class="book" alt="portrait">
+  <div>
+Portrait of Hagiwara, 1924
+in *Cat Town*   
+Translated by Hiroaki Sato    
 [New York Review of Books](http://www.nybooks.com/books/imprints/nyrb-poets/sakutaro-hagiwara/) 2014
+  </div>
+</figure>
 
-  <figure><img src="hagiwara.jpg" alt="portrait 1924"></figure>
 
 Lachrymose, his malaise drips like cold rain in the slums. It is worth noting (thanks to the translator’s preface) that Hagiwara did undergo serious bouts of instability. Otherwise, the overbearing morosity-- "The Miserable Streetlight," "The Riverside of Melancholy," and "Odious Scenery" --becomes comical, though always formally rigorous and compelling.
 
