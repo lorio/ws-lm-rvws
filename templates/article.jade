@@ -9,7 +9,7 @@ block content
       include author
       h1= page.title
       p.author
-        | #{ ' Review by ' }
+        | #{ 'Review by ' }
         mixin author(page.metadata.author)
 
     section.content!= typogr(page.html).typogrify()

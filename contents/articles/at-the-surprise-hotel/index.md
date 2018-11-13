@@ -1,6 +1,6 @@
 ---  
 title: At the Surprise Hotel
-author: Karen Corrine-Herceg
+author: Karen Corinne Herceg
 date: 2017-12-01
 template: article.jade
 ---

@@ -2,20 +2,14 @@
 view: none
 ---
 
-Wintersmith is made by [Johan Nordberg][1] and licensed under the [MIT-license][2].
-This footer text can be edited in about.md
+[LiVE MAG!][1] is published and edited by poet and artist [Jeffrey Cyphers Wright][2]. A 40-page hard-copy of the current magazine is yours when you [subscribe][3]. Some back issues are available.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat.
+Like our page on [Facebook][4] and share the latest news about our events, live performances and artists.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-dolore eu fugiat nulla pariatur.
+Follow us on [Twitter][5]
 
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.
-
-
-[1]: http://johan-nordberg.com
-[2]: http://opensource.org/licenses/MIT
+[1]: http://livemag.org
+[2]: http://jeffreycypherswright.com
+[3]: http://livemag.org/support/
+[4]: https://www.facebook.com/livemag.org/
+[5]: https://twitter.com/livemagnyc

@@ -7,8 +7,12 @@ template: article.jade
 
 Although boxing holds no interest for me, I have always been intrigued by Jack Johnson, the first African American to be heavyweight champion. Adrian Matejka’s poetic paean to Johnson presents a portrait that beautifully captures the bravado, sexual energy and sophistication of an athlete whose 1915 victory sparked race riots. <span class="more"></span>
 
->*The Big Smoke*     
+<figure>
+  <img src="matejka.jpg" class="book" width="150" alt="cover">
+  <div>
+*The Big Smoke*     
 [Penguin Poets](http://www.penguin.com/book/the-big-smoke-by-adrian-matejka/9780143123729)
+</div></figure>
 
 Divided into five sections, there is a loose chronology mirroring Johnson’s humble beginnings of a child of ex slaves. "Battle Royal," the opening poem depicts a time when, "the man said only/ the last darky on his feet gets a meal", and slave-owners decided boxing slaves to be more exciting then chained bears being savaged by dogs.
 
