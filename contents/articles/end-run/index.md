@@ -20,7 +20,9 @@ Tonya M. Foster, her parents, and Mark Statman in New Orleans
 
 Painter **Amy Hill** makes the *NY Times* for her **Front Room** show of ironic, anachronistic portraits of idealized people in a disturbing utopia. Done to a tee.
 
-It’s one thing to live it. It’s another to remember it well. And it’s a whole ‘nother thing to write it down which **Martha King** has gloriously done. *Outside/ Inside  just outside the art world's inside*, new from **BlazeVox**.
+>It’s one thing to live it. It’s another to remember it well. And it’s a whole ‘nother thing to write it down which **Martha King** has gloriously done.
+
+*Outside/ Inside  just outside the art world's inside*, new from **BlazeVox**.
 Romantic, uplifting, historic, sprawling, spunky and searching. So many cross currents of artistic lives, interactions with icons, told with clarity and catchiness. And insightful observations about class, gender, and ambition. What a valuable testimony! What scope. Martha brings it all home in this Romantic memoir /culture lab *tour de force* portrait by a pioneer in the front line. 
 
 Touch down.
